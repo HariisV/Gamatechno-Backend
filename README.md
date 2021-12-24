@@ -36,6 +36,15 @@ Website Front End ini dibangun dengan Teknologi Berikut
 6. Jika berhasil, maka Alamat Defaultnya : http://127.0.0.1:8000, Simpan alamanya karena akan kita gunakan di Front End
 
 <!-- ROADMAP -->
+### How To Deploy 
+
+- [Heroku](https://betterprogramming.pub/hosting-your-laravel-app-on-heroku-198764167a85)
+- [Cpanel](https://medium.com/@gwoks/deploy-laravel-project-ke-hosting-cpanel-63c16f04c178)
+- [VPS](https://www.niagahoster.co.id/blog/cara-install-laravel-di-ubuntu/)
+
+### Demo Project
+- [Video](https://www.awesomescreenshot.com/video/6587930?key=d0110832973e8349112bed2a18360e6b)
+
 
 ## Roadmap
 
